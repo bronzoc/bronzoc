@@ -19,7 +19,6 @@
 ### 💬 Sobre mim:
 
 - 🎓 Estudando para atuar como desenvolvedora front-end
-- 🧠 Aprendendo com foco em boas práticas e projetos reais
 - 💡 Curiosa por acessibilidade, design responsivo e interatividade
 
 ---
