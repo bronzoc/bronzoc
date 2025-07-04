@@ -1,4 +1,4 @@
-<h1 align="center">Olá mundo, eu sou a Carol! 👋</h1>
+<h1 align="center">Olá mundo, eu sou a Carol! </h1>
 <p align="center">
   🚀 Desenvolvedora Front-End em formação | Apaixonada por código limpo, acessibilidade e criatividade na web.
 </p>
